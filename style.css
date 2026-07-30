@@ -31,13 +31,14 @@ body{
 }
 .header ul {
     display: flex;
-    gap: 3rem;
+    gap: 5rem;
     list-style: none;
     
 }
 .header a {
     text-decoration: none;
     color: #7316cb;
+    align-items: center;
 }
 .header nav ul li a {
 transition: 0.5s;
